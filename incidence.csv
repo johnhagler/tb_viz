@@ -1,0 +1,969 @@
+Year,Group,Country,Incidence,Lat,Lon
+1995,High-income,Andorra,245.0,42.5,1.5
+1995,High-income,Antigua and Barbuda,25.0,17.05,-61.8
+1995,High-income,Australia,39.9,-14.3333333,-170.0
+1995,High-income,Australia,39.9,-25.0,135.0
+1995,High-income,Austria,122.0,47.333333,13.333333
+1995,High-income,Bahamas,154.0,24.0,-76.0
+1995,High-income,Bahrain,138.0,26.0,50.5
+1995,High-income,Barbados,11.9,13.166667,-59.533333
+1995,High-income,Belgium,99.0,50.833333,4.0
+1995,High-income,Brunei Darussalam,407.0,4.5,114.666667
+1995,High-income,Canada,48.9,60.0,-96.0
+1995,High-income,Chile,257.0,-30.0,-71.0
+1995,High-income,Cook Islands,124.0,-16.083333,-161.583333
+1995,High-income,Croatia,335.0,45.166667,15.5
+1995,High-income,Cyprus,31.1,35.0,33.0
+1995,High-income,Czech Republic,131.0,49.75,15.0
+1995,High-income,Denmark,53.9,56.0,10.0
+1995,High-income,Estonia,240.0,59.0,26.0
+1995,High-income,Finland,93.0,64.0,26.0
+1995,High-income,France,113.0,46.0,2.0
+1995,High-income,Germany,116.0,51.5,10.5
+1995,High-income,Greece,59.0,39.0,22.0
+1995,High-income,Hungary,265.0,47.0,20.0
+1995,High-income,Iceland,39.8,65.0,-18.0
+1995,High-income,Ireland,109.0,53.0,-8.0
+1995,High-income,Israel,53.9,31.5,34.75
+1995,High-income,Italy,55.8,42.833333,12.833333
+1995,High-income,Japan,270.0,36.0,138.0
+1995,High-income,Kuwait,115.0,29.5,47.75
+1995,High-income,Latvia,563.0,57.0,25.0
+1995,High-income,Lithuania,409.0,56.0,24.0
+1995,High-income,Luxembourg,68.0,49.75,6.166667
+1995,High-income,Malta,41.2,35.916667,14.433333
+1995,High-income,Monaco,16.7,43.733333,7.4
+1995,High-income,Nauru,369.0,-0.533333,166.916667
+1995,High-income,Netherlands,69.0,52.5,5.75
+1995,High-income,New Zealand,66.0,-42.0,174.0
+1995,High-income,Norway,42.3,62.0,10.0
+1995,High-income,Oman,130.0,21.0,57.0
+1995,High-income,Poland,291.0,52.0,20.0
+1995,High-income,Portugal,401.0,39.5,-8.0
+1995,High-income,Qatar,301.0,25.5,51.25
+1995,High-income,Republic of Korea,785.0,37.0,127.5
+1995,High-income,Saint Kitts and Nevis,50.2,17.333333,-62.75
+1995,High-income,San Marino,41.3,43.933333,12.416667
+1995,High-income,Saudi Arabia,96.0,25.0,45.0
+1995,High-income,Seychelles,173.0,-4.583333,55.666667
+1995,High-income,Singapore,380.0,1.366667,103.8
+1995,High-income,Slovakia,208.0,48.666667,19.5
+1995,High-income,Slovenia,211.0,46.25,15.166667
+1995,High-income,Spain,154.0,40.0,-4.0
+1995,High-income,Sweden,44.0,62.0,15.0
+1995,High-income,Switzerland,103.0,47.0,8.0
+1995,High-income,Trinidad and Tobago,80.0,11.0,-61.0
+1995,High-income,United Arab Emirates,72.0,24.0,54.0
+1995,High-income,United Kingdom of Great Britain and Northern Ireland,72.0,54.0,-4.0
+1995,High-income,United States of America,65.6,39.828175,-98.5795
+1995,High-income,Uruguay,161.0,-33.0,-56.0
+1995,Low-income,Afghanistan,1136.0,33.0,66.0
+1995,Low-income,Benin,673.0,9.5,2.25
+1995,Low-income,Burkina Faso,511.0,13.0,-2.0
+1995,Low-income,Burundi,1466.0,-3.5,30.0
+1995,Low-income,Central African Republic,6257.0,7.0,21.0
+1995,Low-income,Chad,667.0,15.0,19.0
+1995,Low-income,Comoros,298.0,-12.166667,44.25
+1995,Low-income,Democratic People's Republic of Korea,2299.0,40.0,127.0
+1995,Low-income,Democratic Republic of the Congo,1960.0,0.0,25.0
+1995,Low-income,Eritrea,1178.0,15.0,39.0
+1995,Low-income,Ethiopia,2358.0,8.0,38.0
+1995,Low-income,Gambia,816.0,13.5,-15.5
+1995,Low-income,Guinea,1502.0,11.0,-10.0
+1995,Low-income,Guinea-Bissau,1578.0,12.0,-15.0
+1995,Low-income,Haiti,1480.0,19.0,-72.416667
+1995,Low-income,Liberia,1251.0,6.5,-9.5
+1995,Low-income,Madagascar,2184.0,-20.0,47.0
+1995,Low-income,Malawi,2068.0,-13.5,34.0
+1995,Low-income,Mali,470.0,17.0,-4.0
+1995,Low-income,Mozambique,2654.0,-18.25,35.0
+1995,Low-income,Nepal,979.0,28.0,84.0
+1995,Low-income,Niger,1910.0,16.0,8.0
+1995,Low-income,Niue,309.0,-19.033333,-169.866667
+1995,Low-income,Rwanda,491.0,-2.0,30.0
+1995,Low-income,Senegal,870.0,14.0,-14.0
+1995,Low-income,Sierra Leone,1597.0,8.5,-11.5
+1995,Low-income,Somalia,1713.0,6.0,48.0
+1995,Low-income,Togo,313.0,8.0,1.166667
+1995,Low-income,Uganda,3509.0,2.0,33.0
+1995,Low-income,United Republic of Tanzania,2655.0,-6.0,35.0
+1995,Low-income,Zimbabwe,2135.0,-19.0,29.0
+1995,Lower-middle-income,Armenia,165.0,40.0,45.0
+1995,Lower-middle-income,Bangladesh,1349.0,24.0,90.0
+1995,Lower-middle-income,Bhutan,4009.0,27.5,90.5
+1995,Lower-middle-income,Bolivia (Plurinational State of),1397.0,-17.0,-65.0
+1995,Lower-middle-income,Cabo Verde,1028.0,16.0,-24.0
+1995,Lower-middle-income,Cambodia,3470.0,13.0,105.0
+1995,Lower-middle-income,Cameroon,919.0,6.0,12.0
+1995,Lower-middle-income,Congo,1234.0,-1.0,15.0
+1995,Lower-middle-income,Côte d'Ivoire,1894.0,8.0,-5.0
+1995,Lower-middle-income,Djibouti,3716.0,11.5,42.5
+1995,Lower-middle-income,Egypt,199.0,27.0,30.0
+1995,Lower-middle-income,El Salvador,332.0,13.833333,-88.916667
+1995,Lower-middle-income,Ghana,1297.0,8.0,-2.0
+1995,Lower-middle-income,Guatemala,437.0,15.5,-90.25
+1995,Lower-middle-income,Honduras,681.0,15.0,-86.5
+1995,Lower-middle-income,India,1297.0,20.0,77.0
+1995,Lower-middle-income,Indonesia,2701.0,-5.0,120.0
+1995,Lower-middle-income,Kenya,889.0,1.0,38.0
+1995,Lower-middle-income,Kiribati,1613.0,-5.0,-170.0
+1995,Lower-middle-income,Kyrgyzstan,770.0,41.0,75.0
+1995,Lower-middle-income,Lao People's Democratic Republic,2680.0,18.0,105.0
+1995,Lower-middle-income,Lesotho,2195.0,-29.5,28.25
+1995,Lower-middle-income,Mauritania,2284.0,20.0,-12.0
+1995,Lower-middle-income,Micronesia (Federated States of),2108.0,5.0,152.0
+1995,Lower-middle-income,Mongolia,2144.0,46.0,105.0
+1995,Lower-middle-income,Morocco,899.0,32.0,-5.0
+1995,Lower-middle-income,Myanmar,2393.0,22.0,98.0
+1995,Lower-middle-income,Nicaragua,448.0,13.0,-85.0
+1995,Lower-middle-income,Nigeria,1628.0,10.0,8.0
+1995,Lower-middle-income,Pakistan,1653.0,30.0,70.0
+1995,Lower-middle-income,Papua New Guinea,2250.0,-6.0,147.0
+1995,Lower-middle-income,Philippines,2530.0,13.0,122.0
+1995,Lower-middle-income,Republic of Moldova,491.0,47.0,29.0
+1995,Lower-middle-income,Samoa,197.0,-13.803096,-172.178309
+1995,Lower-middle-income,Sao Tome and Principe,777.0,1.0,7.0
+1995,Lower-middle-income,Solomon Islands,1649.0,-8.0,159.0
+1995,Lower-middle-income,Sri Lanka,396.0,7.0,81.0
+1995,Lower-middle-income,Sudan,880.0,16.0,30.0
+1995,Lower-middle-income,Swaziland,1821.0,-26.5,31.5
+1995,Lower-middle-income,Syrian Arab Republic,318.0,35.0,38.0
+1995,Lower-middle-income,Tajikistan,650.0,39.0,71.0
+1995,Lower-middle-income,Tonga,221.0,-20.0,-175.0
+1995,Lower-middle-income,Tunisia,181.0,34.0,9.0
+1995,Lower-middle-income,Ukraine,372.0,49.0,32.0
+1995,Lower-middle-income,Uzbekistan,411.0,41.707542,63.84911
+1995,Lower-middle-income,Vanuatu,816.0,-16.0,167.0
+1995,Lower-middle-income,Viet Nam,1408.0,16.166667,107.833333
+1995,Lower-middle-income,Yemen,827.0,15.5,47.5
+1995,Lower-middle-income,Zambia,4862.0,-15.0,30.0
+1995,Upper-middle-income,Albania,144.0,41.0,20.0
+1995,Upper-middle-income,Algeria,400.0,28.0,3.0
+1995,Upper-middle-income,Angola,1537.0,-12.5,18.5
+1995,Upper-middle-income,Argentina,262.0,-34.0,-64.0
+1995,Upper-middle-income,Azerbaijan,2899.0,40.5,47.5
+1995,Upper-middle-income,Belarus,313.0,53.0,28.0
+1995,Upper-middle-income,Belize,261.0,17.25,-88.75
+1995,Upper-middle-income,Bosnia and Herzegovina,485.0,44.25,17.833333
+1995,Upper-middle-income,Botswana,4251.0,-22.0,24.0
+1995,Upper-middle-income,Brazil,463.0,-10.0,-55.0
+1995,Upper-middle-income,Bulgaria,296.0,43.0,25.0
+1995,Upper-middle-income,China,843.0,35.0,105.0
+1995,Upper-middle-income,Colombia,304.0,4.0,-72.0
+1995,Upper-middle-income,Costa Rica,159.0,10.0,-84.0
+1995,Upper-middle-income,Cuba,130.0,22.0,-79.5
+1995,Upper-middle-income,Dominica,104.0,15.5,-61.333333
+1995,Upper-middle-income,Dominican Republic,805.0,19.0,-70.666667
+1995,Upper-middle-income,Ecuador,792.0,-2.0,-77.5
+1995,Upper-middle-income,Equatorial Guinea,508.0,2.0,10.0
+1995,Upper-middle-income,Fiji,454.0,-18.0,178.0
+1995,Upper-middle-income,Gabon,1563.0,-1.0,11.75
+1995,Upper-middle-income,Georgia,1613.0,41.999981,43.499905
+1995,Upper-middle-income,Grenada,12.78,12.116667,-61.666667
+1995,Upper-middle-income,Guyana,533.0,5.0,-59.0
+1995,Upper-middle-income,Iran (Islamic Republic of),206.0,32.0,53.0
+1995,Upper-middle-income,Iraq,319.0,33.0,44.0
+1995,Upper-middle-income,Jamaica,41.2,18.25,-77.5
+1995,Upper-middle-income,Jordan,79.0,31.0,36.0
+1995,Upper-middle-income,Kazakhstan,416.0,48.0,68.0
+1995,Upper-middle-income,Lebanon,194.0,33.833333,35.833333
+1995,Upper-middle-income,Libya,240.0,25.0,17.0
+1995,Upper-middle-income,Malaysia,457.0,2.5,112.5
+1995,Upper-middle-income,Maldives,783.0,3.2,73.0
+1995,Upper-middle-income,Marshall Islands,713.0,10.0,167.0
+1995,Upper-middle-income,Mauritius,161.0,-20.3,57.583333
+1995,Upper-middle-income,Mauritius,161.0,16.0,146.0
+1995,Upper-middle-income,Mexico,314.0,23.0,-102.0
+1995,Upper-middle-income,Namibia,2348.0,-22.0,17.0
+1995,Upper-middle-income,Palau,846.0,6.0,134.0
+1995,Upper-middle-income,Panama,279.0,9.0,-80.0
+1995,Upper-middle-income,Paraguay,352.0,-22.993333,-57.996389
+1995,Upper-middle-income,Peru,1465.0,-10.0,-76.0
+1995,Upper-middle-income,Romania,1021.0,46.0,25.0
+1995,Upper-middle-income,Russian Federation,431.0,60.0,100.0
+1995,Upper-middle-income,Saint Lucia,114.0,13.883333,-60.966667
+1995,Upper-middle-income,Saint Vincent and the Grenadines,162.0,13.083333,-61.2
+1995,Upper-middle-income,Serbia,0.0,44.0,21.0
+1995,Upper-middle-income,South Africa,1802.0,-30.0,26.0
+1995,Upper-middle-income,Suriname,474.0,4.0,-56.0
+1995,Upper-middle-income,Thailand,1122.0,15.0,100.0
+1995,Upper-middle-income,The former Yugoslav republic of Macedonia,277.0,41.833333,22.0
+1995,Upper-middle-income,Turkey,301.0,39.059012,34.911546
+1995,Upper-middle-income,Turkmenistan,756.0,40.0,60.0
+1995,Upper-middle-income,Tuvalu,2913.0,-8.0,178.0
+1995,Upper-middle-income,Venezuela (Bolivarian Republic of),176.0,8.0,-66.0
+2000,High-income,Andorra,117.0,42.5,1.5
+2000,High-income,Antigua and Barbuda,23.0,17.05,-61.8
+2000,High-income,Australia,31.9,-14.3333333,-170.0
+2000,High-income,Australia,31.9,-25.0,135.0
+2000,High-income,Austria,88.0,47.333333,13.333333
+2000,High-income,Bahamas,143.0,24.0,-76.0
+2000,High-income,Bahrain,99.0,26.0,50.5
+2000,High-income,Barbados,9.0,13.166667,-59.533333
+2000,High-income,Belgium,72.0,50.833333,4.0
+2000,High-income,Brunei Darussalam,389.0,4.5,114.666667
+2000,High-income,Canada,35.4,60.0,-96.0
+2000,High-income,Chile,137.0,-30.0,-71.0
+2000,High-income,Cook Islands,54.5,-16.083333,-161.583333
+2000,High-income,Croatia,244.0,45.166667,15.5
+2000,High-income,Cyprus,23.5,35.0,33.0
+2000,High-income,Czech Republic,95.0,49.75,15.0
+2000,High-income,Denmark,58.0,56.0,10.0
+2000,High-income,Estonia,302.0,59.0,26.0
+2000,High-income,Finland,64.0,64.0,26.0
+2000,High-income,France,71.0,46.0,2.0
+2000,High-income,Germany,72.0,51.5,10.5
+2000,High-income,Greece,45.2,39.0,22.0
+2000,High-income,Hungary,213.0,47.0,20.0
+2000,High-income,Iceland,24.9,65.0,-18.0
+2000,High-income,Ireland,66.0,53.0,-8.0
+2000,High-income,Israel,49.6,31.5,34.75
+2000,High-income,Italy,47.1,42.833333,12.833333
+2000,High-income,Japan,189.0,36.0,138.0
+2000,High-income,Kuwait,156.0,29.5,47.75
+2000,High-income,Latvia,653.0,57.0,25.0
+2000,High-income,Lithuania,504.0,56.0,24.0
+2000,High-income,Luxembourg,51.0,49.75,6.166667
+2000,High-income,Malta,26.6,35.916667,14.433333
+2000,High-income,Monaco,10.6,43.733333,7.4
+2000,High-income,Nauru,160.0,-0.533333,166.916667
+2000,High-income,Netherlands,53.0,52.5,5.75
+2000,High-income,New Zealand,55.0,-42.0,174.0
+2000,High-income,Norway,29.8,62.0,10.0
+2000,High-income,Oman,74.0,21.0,57.0
+2000,High-income,Poland,196.0,52.0,20.0
+2000,High-income,Portugal,278.0,39.5,-8.0
+2000,High-income,Qatar,273.0,25.5,51.25
+2000,High-income,Republic of Korea,421.0,37.0,127.5
+2000,High-income,Saint Kitts and Nevis,57.3,17.333333,-62.75
+2000,High-income,San Marino,14.7,43.933333,12.416667
+2000,High-income,Saudi Arabia,89.0,25.0,45.0
+2000,High-income,Seychelles,114.0,-4.583333,55.666667
+2000,High-income,Singapore,287.0,1.366667,103.8
+2000,High-income,Slovakia,135.0,48.666667,19.5
+2000,High-income,Slovenia,130.0,46.25,15.166667
+2000,High-income,Spain,122.0,40.0,-4.0
+2000,High-income,Sweden,29.7,62.0,15.0
+2000,High-income,Switzerland,57.0,47.0,8.0
+2000,High-income,Trinidad and Tobago,87.0,11.0,-61.0
+2000,High-income,United Arab Emirates,60.0,24.0,54.0
+2000,High-income,United Kingdom of Great Britain and Northern Ireland,60.0,54.0,-4.0
+2000,High-income,United States of America,39.2,39.828175,-98.5795
+2000,High-income,Uruguay,114.0,-33.0,-56.0
+2000,Low-income,Afghanistan,946.0,33.0,66.0
+2000,Low-income,Benin,456.0,9.5,2.25
+2000,Low-income,Burkina Faso,376.0,13.0,-2.0
+2000,Low-income,Burundi,1579.0,-3.5,30.0
+2000,Low-income,Central African Republic,5818.0,7.0,21.0
+2000,Low-income,Chad,719.0,15.0,19.0
+2000,Low-income,Comoros,207.0,-12.166667,44.25
+2000,Low-income,Democratic People's Republic of Korea,1915.0,40.0,127.0
+2000,Low-income,Democratic Republic of the Congo,1635.0,0.0,25.0
+2000,Low-income,Eritrea,911.0,15.0,39.0
+2000,Low-income,Ethiopia,2139.0,8.0,38.0
+2000,Low-income,Gambia,855.0,13.5,-15.5
+2000,Low-income,Guinea,1189.0,11.0,-10.0
+2000,Low-income,Guinea-Bissau,1450.0,12.0,-15.0
+2000,Low-income,Haiti,1296.0,19.0,-72.416667
+2000,Low-income,Liberia,1163.0,6.5,-9.5
+2000,Low-income,Madagascar,1542.0,-20.0,47.0
+2000,Low-income,Malawi,1914.0,-13.5,34.0
+2000,Low-income,Mali,394.0,17.0,-4.0
+2000,Low-income,Mozambique,2515.0,-18.25,35.0
+2000,Low-income,Nepal,815.0,28.0,84.0
+2000,Low-income,Niger,1101.0,16.0,8.0
+2000,Low-income,Niue,167.0,-19.033333,-169.866667
+2000,Low-income,Rwanda,469.0,-2.0,30.0
+2000,Low-income,Senegal,784.0,14.0,-14.0
+2000,Low-income,Sierra Leone,1482.0,8.5,-11.5
+2000,Low-income,Somalia,1427.0,6.0,48.0
+2000,Low-income,Togo,252.0,8.0,1.166667
+2000,Low-income,Uganda,2380.0,2.0,33.0
+2000,Low-income,United Republic of Tanzania,2458.0,-6.0,35.0
+2000,Low-income,Zimbabwe,2704.0,-19.0,29.0
+2000,Lower-middle-income,Armenia,261.0,40.0,45.0
+2000,Lower-middle-income,Bangladesh,1125.0,24.0,90.0
+2000,Lower-middle-income,Bhutan,2298.0,27.5,90.5
+2000,Lower-middle-income,Bolivia (Plurinational State of),981.0,-17.0,-65.0
+2000,Lower-middle-income,Cabo Verde,816.0,16.0,-24.0
+2000,Lower-middle-income,Cambodia,2894.0,13.0,105.0
+2000,Lower-middle-income,Cameroon,1364.0,6.0,12.0
+2000,Lower-middle-income,Congo,1539.0,-1.0,15.0
+2000,Lower-middle-income,Côte d'Ivoire,1923.0,8.0,-5.0
+2000,Lower-middle-income,Djibouti,3100.0,11.5,42.5
+2000,Lower-middle-income,Egypt,140.0,27.0,30.0
+2000,Lower-middle-income,El Salvador,183.0,13.833333,-88.916667
+2000,Lower-middle-income,Ghana,1091.0,8.0,-2.0
+2000,Lower-middle-income,Guatemala,345.0,15.5,-90.25
+2000,Lower-middle-income,Honduras,583.0,15.0,-86.5
+2000,Lower-middle-income,India,1084.0,20.0,77.0
+2000,Lower-middle-income,Indonesia,2247.0,-5.0,120.0
+2000,Lower-middle-income,Kenya,1174.0,1.0,38.0
+2000,Lower-middle-income,Kiribati,2541.0,-5.0,-170.0
+2000,Lower-middle-income,Kyrgyzstan,1102.0,41.0,75.0
+2000,Lower-middle-income,Lao People's Democratic Republic,1789.0,18.0,105.0
+2000,Lower-middle-income,Lesotho,3874.0,-29.5,28.25
+2000,Lower-middle-income,Mauritania,1403.0,20.0,-12.0
+2000,Lower-middle-income,Micronesia (Federated States of),1485.0,5.0,152.0
+2000,Lower-middle-income,Mongolia,1374.0,46.0,105.0
+2000,Lower-middle-income,Morocco,657.0,32.0,-5.0
+2000,Lower-middle-income,Myanmar,2048.0,22.0,98.0
+2000,Lower-middle-income,Nicaragua,310.0,13.0,-85.0
+2000,Lower-middle-income,Nigeria,1547.0,10.0,8.0
+2000,Lower-middle-income,Pakistan,1378.0,30.0,70.0
+2000,Lower-middle-income,Papua New Guinea,2028.0,-6.0,147.0
+2000,Lower-middle-income,Philippines,1910.0,13.0,122.0
+2000,Lower-middle-income,Republic of Moldova,667.0,47.0,29.0
+2000,Lower-middle-income,Samoa,129.0,-13.803096,-172.178309
+2000,Lower-middle-income,Sao Tome and Principe,590.0,1.0,7.0
+2000,Lower-middle-income,Solomon Islands,1029.0,-8.0,159.0
+2000,Lower-middle-income,Sri Lanka,330.0,7.0,81.0
+2000,Lower-middle-income,Sudan,664.0,16.0,30.0
+2000,Lower-middle-income,Swaziland,3128.0,-26.5,31.5
+2000,Lower-middle-income,Syrian Arab Republic,195.0,35.0,38.0
+2000,Lower-middle-income,Tajikistan,983.0,39.0,71.0
+2000,Lower-middle-income,Tonga,168.0,-20.0,-175.0
+2000,Lower-middle-income,Tunisia,137.0,34.0,9.0
+2000,Lower-middle-income,Ukraine,503.0,49.0,32.0
+2000,Lower-middle-income,Uzbekistan,435.0,41.707542,63.84911
+2000,Lower-middle-income,Vanuatu,569.0,-16.0,167.0
+2000,Lower-middle-income,Viet Nam,1026.0,16.166667,107.833333
+2000,Lower-middle-income,Yemen,636.0,15.5,47.5
+2000,Lower-middle-income,Zambia,4035.0,-15.0,30.0
+2000,Upper-middle-income,Albania,124.0,41.0,20.0
+2000,Upper-middle-income,Algeria,393.0,28.0,3.0
+2000,Upper-middle-income,Angola,1405.0,-12.5,18.5
+2000,Upper-middle-income,Argentina,198.0,-34.0,-64.0
+2000,Upper-middle-income,Azerbaijan,3499.0,40.5,47.5
+2000,Upper-middle-income,Belarus,402.0,53.0,28.0
+2000,Upper-middle-income,Belize,284.0,17.25,-88.75
+2000,Upper-middle-income,Bosnia and Herzegovina,455.0,44.25,17.833333
+2000,Upper-middle-income,Botswana,4598.0,-22.0,24.0
+2000,Upper-middle-income,Brazil,325.0,-10.0,-55.0
+2000,Upper-middle-income,Bulgaria,306.0,43.0,25.0
+2000,Upper-middle-income,China,582.0,35.0,105.0
+2000,Upper-middle-income,Colombia,225.0,4.0,-72.0
+2000,Upper-middle-income,Costa Rica,106.0,10.0,-84.0
+2000,Upper-middle-income,Cuba,75.0,22.0,-79.5
+2000,Upper-middle-income,Dominica,45.7,15.5,-61.333333
+2000,Upper-middle-income,Dominican Republic,541.0,19.0,-70.666667
+2000,Upper-middle-income,Ecuador,560.0,-2.0,-77.5
+2000,Upper-middle-income,Equatorial Guinea,460.0,2.0,10.0
+2000,Upper-middle-income,Fiji,293.0,-18.0,178.0
+2000,Upper-middle-income,Gabon,2151.0,-1.0,11.75
+2000,Upper-middle-income,Georgia,1304.0,41.999981,43.499905
+2000,Upper-middle-income,Grenada,13.8,12.116667,-61.666667
+2000,Upper-middle-income,Guyana,482.0,5.0,-59.0
+2000,Upper-middle-income,Iran (Islamic Republic of),149.0,32.0,53.0
+2000,Upper-middle-income,Iraq,256.0,33.0,44.0
+2000,Upper-middle-income,Jamaica,33.1,18.25,-77.5
+2000,Upper-middle-income,Jordan,47.5,31.0,36.0
+2000,Upper-middle-income,Kazakhstan,679.0,48.0,68.0
+2000,Upper-middle-income,Lebanon,111.0,33.833333,35.833333
+2000,Upper-middle-income,Libya,200.0,25.0,17.0
+2000,Upper-middle-income,Malaysia,387.0,2.5,112.5
+2000,Upper-middle-income,Maldives,413.0,3.2,73.0
+2000,Upper-middle-income,Marshall Islands,570.0,10.0,167.0
+2000,Upper-middle-income,Mauritius,125.0,-20.3,57.583333
+2000,Upper-middle-income,Mauritius,125.0,16.0,146.0
+2000,Upper-middle-income,Mexico,171.0,23.0,-102.0
+2000,Upper-middle-income,Namibia,4417.0,-22.0,17.0
+2000,Upper-middle-income,Palau,703.0,6.0,134.0
+2000,Upper-middle-income,Panama,297.0,9.0,-80.0
+2000,Upper-middle-income,Paraguay,248.0,-22.993333,-57.996389
+2000,Upper-middle-income,Peru,1038.0,-10.0,-76.0
+2000,Upper-middle-income,Romania,941.0,46.0,25.0
+2000,Upper-middle-income,Russian Federation,584.0,60.0,100.0
+2000,Upper-middle-income,Saint Lucia,83.0,13.883333,-60.966667
+2000,Upper-middle-income,Saint Vincent and the Grenadines,130.0,13.083333,-61.2
+2000,Upper-middle-income,Serbia,0.0,44.0,21.0
+2000,Upper-middle-income,South Africa,2245.0,-30.0,26.0
+2000,Upper-middle-income,Suriname,457.0,4.0,-56.0
+2000,Upper-middle-income,Thailand,1095.0,15.0,100.0
+2000,Upper-middle-income,The former Yugoslav republic of Macedonia,184.0,41.833333,22.0
+2000,Upper-middle-income,Turkey,205.0,39.059012,34.911546
+2000,Upper-middle-income,Turkmenistan,954.0,40.0,60.0
+2000,Upper-middle-income,Tuvalu,1939.0,-8.0,178.0
+2000,Upper-middle-income,Venezuela (Bolivarian Republic of),148.0,8.0,-66.0
+2005,High-income,Andorra,67.0,42.5,1.5
+2005,High-income,Antigua and Barbuda,22.1,17.05,-61.8
+2005,High-income,Australia,29.9,-14.3333333,-170.0
+2005,High-income,Australia,29.9,-25.0,135.0
+2005,High-income,Austria,68.0,47.333333,13.333333
+2005,High-income,Bahamas,101.0,24.0,-76.0
+2005,High-income,Bahrain,173.0,26.0,50.5
+2005,High-income,Barbados,20.1,13.166667,-59.533333
+2005,High-income,Belgium,63.0,50.833333,4.0
+2005,High-income,Brunei Darussalam,359.0,4.5,114.666667
+2005,High-income,Canada,29.6,60.0,-96.0
+2005,High-income,Chile,96.0,-30.0,-71.0
+2005,High-income,Cook Islands,31.2,-16.083333,-161.583333
+2005,High-income,Croatia,172.0,45.166667,15.5
+2005,High-income,Cyprus,19.1,35.0,33.0
+2005,High-income,Czech Republic,65.0,49.75,15.0
+2005,High-income,Denmark,44.9,56.0,10.0
+2005,High-income,Estonia,251.0,59.0,26.0
+2005,High-income,Finland,43.6,64.0,26.0
+2005,High-income,France,57.0,46.0,2.0
+2005,High-income,Germany,46.7,51.5,10.5
+2005,High-income,Greece,34.0,39.0,22.0
+2005,High-income,Hungary,140.0,47.0,20.0
+2005,High-income,Iceland,19.8,65.0,-18.0
+2005,High-income,Ireland,59.0,53.0,-8.0
+2005,High-income,Israel,41.8,31.5,34.75
+2005,High-income,Italy,39.7,42.833333,12.833333
+2005,High-income,Japan,145.0,36.0,138.0
+2005,High-income,Kuwait,155.0,29.5,47.75
+2005,High-income,Latvia,471.0,57.0,25.0
+2005,High-income,Lithuania,465.0,56.0,24.0
+2005,High-income,Luxembourg,47.9,49.75,6.166667
+2005,High-income,Malta,28.8,35.916667,14.433333
+2005,High-income,Monaco,5.58,43.733333,7.4
+2005,High-income,Nauru,345.0,-0.533333,166.916667
+2005,High-income,Netherlands,44.4,52.5,5.75
+2005,High-income,New Zealand,51.5,-42.0,174.0
+2005,High-income,Norway,34.2,62.0,10.0
+2005,High-income,Oman,70.0,21.0,57.0
+2005,High-income,Poland,142.0,52.0,20.0
+2005,High-income,Portugal,215.0,39.5,-8.0
+2005,High-income,Qatar,236.0,25.5,51.25
+2005,High-income,Republic of Korea,436.0,37.0,127.5
+2005,High-income,Saint Kitts and Nevis,21.7,17.333333,-62.75
+2005,High-income,San Marino,9.4,43.933333,12.416667
+2005,High-income,Saudi Arabia,86.0,25.0,45.0
+2005,High-income,Seychelles,114.0,-4.583333,55.666667
+2005,High-income,Singapore,206.0,1.366667,103.8
+2005,High-income,Slovakia,92.0,48.666667,19.5
+2005,High-income,Slovenia,86.0,46.25,15.166667
+2005,High-income,Spain,104.0,40.0,-4.0
+2005,High-income,Sweden,27.5,62.0,15.0
+2005,High-income,Switzerland,43.3,47.0,8.0
+2005,High-income,Trinidad and Tobago,80.0,11.0,-61.0
+2005,High-income,United Arab Emirates,28.5,24.0,54.0
+2005,High-income,United Kingdom of Great Britain and Northern Ireland,66.0,54.0,-4.0
+2005,High-income,United States of America,29.4,39.828175,-98.5795
+2005,High-income,Uruguay,108.0,-33.0,-56.0
+2005,Low-income,Afghanistan,945.0,33.0,66.0
+2005,Low-income,Benin,389.0,9.5,2.25
+2005,Low-income,Burkina Faso,331.0,13.0,-2.0
+2005,Low-income,Burundi,1156.0,-3.5,30.0
+2005,Low-income,Central African Republic,4215.0,7.0,21.0
+2005,Low-income,Chad,758.0,15.0,19.0
+2005,Low-income,Comoros,184.0,-12.166667,44.25
+2005,Low-income,Democratic People's Republic of Korea,1915.0,40.0,127.0
+2005,Low-income,Democratic Republic of the Congo,1635.0,0.0,25.0
+2005,Low-income,Eritrea,865.0,15.0,39.0
+2005,Low-income,Ethiopia,1877.0,8.0,38.0
+2005,Low-income,Gambia,957.0,13.5,-15.5
+2005,Low-income,Guinea,1087.0,11.0,-10.0
+2005,Low-income,Guinea-Bissau,1703.0,12.0,-15.0
+2005,Low-income,Haiti,1376.0,19.0,-72.416667
+2005,Low-income,Liberia,1280.0,6.5,-9.5
+2005,Low-income,Madagascar,1369.0,-20.0,47.0
+2005,Low-income,Malawi,1981.0,-13.5,34.0
+2005,Low-income,Mali,363.0,17.0,-4.0
+2005,Low-income,Mozambique,2593.0,-18.25,35.0
+2005,Low-income,Nepal,815.0,28.0,84.0
+2005,Low-income,Niger,800.0,16.0,8.0
+2005,Low-income,Niue,254.0,-19.033333,-169.866667
+2005,Low-income,Rwanda,503.0,-2.0,30.0
+2005,Low-income,Senegal,735.0,14.0,-14.0
+2005,Low-income,Sierra Leone,1563.0,8.5,-11.5
+2005,Low-income,Somalia,1425.0,6.0,48.0
+2005,Low-income,Togo,306.0,8.0,1.166667
+2005,Low-income,Uganda,1756.0,2.0,33.0
+2005,Low-income,United Republic of Tanzania,2545.0,-6.0,35.0
+2005,Low-income,Zimbabwe,3046.0,-19.0,29.0
+2005,Lower-middle-income,Armenia,363.0,40.0,45.0
+2005,Lower-middle-income,Bangladesh,1125.0,24.0,90.0
+2005,Lower-middle-income,Bhutan,1653.0,27.5,90.5
+2005,Lower-middle-income,Bolivia (Plurinational State of),841.0,-17.0,-65.0
+2005,Lower-middle-income,Cabo Verde,780.0,16.0,-24.0
+2005,Lower-middle-income,Cambodia,2703.0,13.0,105.0
+2005,Lower-middle-income,Cameroon,1588.0,6.0,12.0
+2005,Lower-middle-income,Congo,2039.0,-1.0,15.0
+2005,Lower-middle-income,Côte d'Ivoire,1544.0,8.0,-5.0
+2005,Lower-middle-income,Djibouti,3096.0,11.5,42.5
+2005,Lower-middle-income,Egypt,115.0,27.0,30.0
+2005,Lower-middle-income,El Salvador,143.0,13.833333,-88.916667
+2005,Lower-middle-income,Ghana,1044.0,8.0,-2.0
+2005,Lower-middle-income,Guatemala,330.0,15.5,-90.25
+2005,Lower-middle-income,Honduras,453.0,15.0,-86.5
+2005,Lower-middle-income,India,1066.0,20.0,77.0
+2005,Lower-middle-income,Indonesia,2216.0,-5.0,120.0
+2005,Lower-middle-income,Kenya,1710.0,1.0,38.0
+2005,Lower-middle-income,Kiribati,2003.0,-5.0,-170.0
+2005,Lower-middle-income,Kyrgyzstan,1158.0,41.0,75.0
+2005,Lower-middle-income,Lao People's Democratic Republic,1467.0,18.0,105.0
+2005,Lower-middle-income,Lesotho,6000.0,-29.5,28.25
+2005,Lower-middle-income,Mauritania,1035.0,20.0,-12.0
+2005,Lower-middle-income,Micronesia (Federated States of),1276.0,5.0,152.0
+2005,Lower-middle-income,Mongolia,1174.0,46.0,105.0
+2005,Lower-middle-income,Morocco,526.0,32.0,-5.0
+2005,Lower-middle-income,Myanmar,2038.0,22.0,98.0
+2005,Lower-middle-income,Nicaragua,237.0,13.0,-85.0
+2005,Lower-middle-income,Nigeria,1691.0,10.0,8.0
+2005,Lower-middle-income,Pakistan,1378.0,30.0,70.0
+2005,Lower-middle-income,Papua New Guinea,2128.0,-6.0,147.0
+2005,Lower-middle-income,Philippines,1746.0,13.0,122.0
+2005,Lower-middle-income,Republic of Moldova,834.0,47.0,29.0
+2005,Lower-middle-income,Samoa,100.0,-13.803096,-172.178309
+2005,Lower-middle-income,Sao Tome and Principe,543.0,1.0,7.0
+2005,Lower-middle-income,Solomon Islands,791.0,-8.0,159.0
+2005,Lower-middle-income,Sri Lanka,330.0,7.0,81.0
+2005,Lower-middle-income,Sudan,607.0,16.0,30.0
+2005,Lower-middle-income,Swaziland,5690.0,-26.5,31.5
+2005,Lower-middle-income,Syrian Arab Republic,147.0,35.0,38.0
+2005,Lower-middle-income,Tajikistan,1060.0,39.0,71.0
+2005,Lower-middle-income,Timor-Leste,1992.0,-8.833333,125.75
+2005,Lower-middle-income,Tonga,136.0,-20.0,-175.0
+2005,Lower-middle-income,Tunisia,117.0,34.0,9.0
+2005,Lower-middle-income,Ukraine,622.0,49.0,32.0
+2005,Lower-middle-income,Uzbekistan,576.0,41.707542,63.84911
+2005,Lower-middle-income,Vanuatu,430.0,-16.0,167.0
+2005,Lower-middle-income,Viet Nam,923.0,16.166667,107.833333
+2005,Lower-middle-income,Yemen,474.0,15.5,47.5
+2005,Lower-middle-income,Zambia,3318.0,-15.0,30.0
+2005,Upper-middle-income,Albania,106.0,41.0,20.0
+2005,Upper-middle-income,Algeria,439.0,28.0,3.0
+2005,Upper-middle-income,Angola,1680.0,-12.5,18.5
+2005,Upper-middle-income,Argentina,166.0,-34.0,-64.0
+2005,Upper-middle-income,Azerbaijan,2436.0,40.5,47.5
+2005,Upper-middle-income,Belarus,384.0,53.0,28.0
+2005,Upper-middle-income,Belize,235.0,17.25,-88.75
+2005,Upper-middle-income,Bosnia and Herzegovina,409.0,44.25,17.833333
+2005,Upper-middle-income,Botswana,4060.0,-22.0,24.0
+2005,Upper-middle-income,Brazil,272.0,-10.0,-55.0
+2005,Upper-middle-income,Bulgaria,278.0,43.0,25.0
+2005,Upper-middle-income,China,492.0,35.0,105.0
+2005,Upper-middle-income,Colombia,200.0,4.0,-72.0
+2005,Upper-middle-income,Costa Rica,88.0,10.0,-84.0
+2005,Upper-middle-income,Cuba,51.8,22.0,-79.5
+2005,Upper-middle-income,Dominica,51.0,15.5,-61.333333
+2005,Upper-middle-income,Dominican Republic,444.0,19.0,-70.666667
+2005,Upper-middle-income,Ecuador,397.0,-2.0,-77.5
+2005,Upper-middle-income,Equatorial Guinea,511.0,2.0,10.0
+2005,Upper-middle-income,Fiji,230.0,-18.0,178.0
+2005,Upper-middle-income,Gabon,2900.0,-1.0,11.75
+2005,Upper-middle-income,Georgia,1048.0,41.999981,43.499905
+2005,Upper-middle-income,Grenada,11.4,12.116667,-61.666667
+2005,Upper-middle-income,Guyana,560.0,5.0,-59.0
+2005,Upper-middle-income,Iran (Islamic Republic of),110.0,32.0,53.0
+2005,Upper-middle-income,Iraq,244.0,33.0,44.0
+2005,Upper-middle-income,Jamaica,30.0,18.25,-77.5
+2005,Upper-middle-income,Jordan,36.9,31.0,36.0
+2005,Upper-middle-income,Kazakhstan,983.0,48.0,68.0
+2005,Upper-middle-income,Lebanon,63.0,33.833333,35.833333
+2005,Upper-middle-income,Libya,200.0,25.0,17.0
+2005,Upper-middle-income,Malaysia,382.0,2.5,112.5
+2005,Upper-middle-income,Maldives,274.0,3.2,73.0
+2005,Upper-middle-income,Marshall Islands,948.0,10.0,167.0
+2005,Upper-middle-income,Mauritius,118.0,-20.3,57.583333
+2005,Upper-middle-income,Mauritius,118.0,16.0,146.0
+2005,Upper-middle-income,Mexico,118.0,23.0,-102.0
+2005,Upper-middle-income,Namibia,5874.0,-22.0,17.0
+2005,Upper-middle-income,Palau,333.0,6.0,134.0
+2005,Upper-middle-income,Panama,310.0,9.0,-80.0
+2005,Upper-middle-income,Paraguay,245.0,-22.993333,-57.996389
+2005,Upper-middle-income,Peru,813.0,-10.0,-76.0
+2005,Upper-middle-income,Romania,805.0,46.0,25.0
+2005,Upper-middle-income,Russian Federation,680.0,60.0,100.0
+2005,Upper-middle-income,Saint Lucia,54.7,13.883333,-60.966667
+2005,Upper-middle-income,Saint Vincent and the Grenadines,126.0,13.083333,-61.2
+2005,Upper-middle-income,Serbia,40.0,44.0,21.0
+2005,Upper-middle-income,South Africa,4047.0,-30.0,26.0
+2005,Upper-middle-income,Suriname,360.0,4.0,-56.0
+2005,Upper-middle-income,Thailand,1185.0,15.0,100.0
+2005,Upper-middle-income,The former Yugoslav republic of Macedonia,182.0,41.833333,22.0
+2005,Upper-middle-income,Turkey,163.0,39.059012,34.911546
+2005,Upper-middle-income,Turkmenistan,977.0,40.0,60.0
+2005,Upper-middle-income,Tuvalu,1582.0,-8.0,178.0
+2005,Upper-middle-income,Venezuela (Bolivarian Republic of),146.0,8.0,-66.0
+2010,High-income,Andorra,48.4,42.5,1.5
+2010,High-income,Antigua and Barbuda,25.4,17.05,-61.8
+2010,High-income,Australia,31.8,-14.3333333,-170.0
+2010,High-income,Australia,31.8,-25.0,135.0
+2010,High-income,Austria,52.1,47.333333,13.333333
+2010,High-income,Bahamas,72.0,24.0,-76.0
+2010,High-income,Bahrain,155.0,26.0,50.5
+2010,High-income,Barbados,16.8,13.166667,-59.533333
+2010,High-income,Belgium,51.8,50.833333,4.0
+2010,High-income,Brunei Darussalam,310.0,4.5,114.666667
+2010,High-income,Canada,26.1,60.0,-96.0
+2010,High-income,Chile,83.0,-30.0,-71.0
+2010,High-income,Cook Islands,36.6,-16.083333,-161.583333
+2010,High-income,Croatia,115.0,45.166667,15.5
+2010,High-income,Cyprus,23.6,35.0,33.0
+2010,High-income,Czech Republic,41.9,49.75,15.0
+2010,High-income,Denmark,34.6,56.0,10.0
+2010,High-income,Estonia,166.0,59.0,26.0
+2010,High-income,Finland,33.5,64.0,26.0
+2010,High-income,France,49.5,46.0,2.0
+2010,High-income,Germany,32.0,51.5,10.5
+2010,High-income,Greece,29.4,39.0,22.0
+2010,High-income,Hungary,86.0,47.0,20.0
+2010,High-income,Iceland,20.0,65.0,-18.0
+2010,High-income,Ireland,53.0,53.0,-8.0
+2010,High-income,Israel,29.8,31.5,34.75
+2010,High-income,Italy,36.8,42.833333,12.833333
+2010,High-income,Japan,110.0,36.0,138.0
+2010,High-income,Kuwait,156.0,29.5,47.75
+2010,High-income,Latvia,291.0,57.0,25.0
+2010,High-income,Lithuania,390.0,56.0,24.0
+2010,High-income,Luxembourg,39.1,49.75,6.166667
+2010,High-income,Malta,47.6,35.916667,14.433333
+2010,High-income,Monaco,9.0,43.733333,7.4
+2010,High-income,Nauru,403.0,-0.533333,166.916667
+2010,High-income,Netherlands,36.0,52.5,5.75
+2010,High-income,New Zealand,41.9,-42.0,174.0
+2010,High-income,Norway,36.6,62.0,10.0
+2010,High-income,Oman,68.0,21.0,57.0
+2010,High-income,Poland,115.0,52.0,20.0
+2010,High-income,Portugal,157.0,39.5,-8.0
+2010,High-income,Qatar,204.0,25.5,51.25
+2010,High-income,Republic of Korea,505.0,37.0,127.5
+2010,High-income,Saint Kitts and Nevis,27.1,17.333333,-62.75
+2010,High-income,San Marino,7.6,43.933333,12.416667
+2010,High-income,Saudi Arabia,84.0,25.0,45.0
+2010,High-income,Seychelles,81.0,-4.583333,55.666667
+2010,High-income,Singapore,177.0,1.366667,103.8
+2010,High-income,Slovakia,57.4,48.666667,19.5
+2010,High-income,Slovenia,55.6,46.25,15.166667
+2010,High-income,Spain,90.0,40.0,-4.0
+2010,High-income,Sweden,32.4,62.0,15.0
+2010,High-income,Switzerland,36.0,47.0,8.0
+2010,High-income,Trinidad and Tobago,99.0,11.0,-61.0
+2010,High-income,United Arab Emirates,13.6,24.0,54.0
+2010,High-income,United Kingdom of Great Britain and Northern Ireland,75.0,54.0,-4.0
+2010,High-income,United States of America,23.6,39.828175,-98.5795
+2010,High-income,Uruguay,116.0,-33.0,-56.0
+2010,Low-income,Afghanistan,945.0,33.0,66.0
+2010,Low-income,Benin,346.0,9.5,2.25
+2010,Low-income,Burkina Faso,304.0,13.0,-2.0
+2010,Low-income,Burundi,806.0,-3.5,30.0
+2010,Low-income,Central African Republic,2590.0,7.0,21.0
+2010,Low-income,Chad,755.0,15.0,19.0
+2010,Low-income,Comoros,171.0,-12.166667,44.25
+2010,Low-income,Democratic People's Republic of Korea,1938.0,40.0,127.0
+2010,Low-income,Democratic Republic of the Congo,1635.0,0.0,25.0
+2010,Low-income,Eritrea,572.0,15.0,39.0
+2010,Low-income,Ethiopia,1481.0,8.0,38.0
+2010,Low-income,Gambia,916.0,13.5,-15.5
+2010,Low-income,Guinea,977.0,11.0,-10.0
+2010,Low-income,Guinea-Bissau,1842.0,12.0,-15.0
+2010,Low-income,Haiti,1238.0,19.0,-72.416667
+2010,Low-income,Liberia,1412.0,6.5,-9.5
+2010,Low-income,Madagascar,1242.0,-20.0,47.0
+2010,Low-income,Malawi,1829.0,-13.5,34.0
+2010,Low-income,Mali,326.0,17.0,-4.0
+2010,Low-income,Mozambique,2678.0,-18.25,35.0
+2010,Low-income,Nepal,819.0,28.0,84.0
+2010,Low-income,Niger,619.0,16.0,8.0
+2010,Low-income,Niue,0.0,-19.033333,-169.866667
+2010,Low-income,Rwanda,475.0,-2.0,30.0
+2010,Low-income,Senegal,686.0,14.0,-14.0
+2010,Low-income,Sierra Leone,1588.0,8.5,-11.5
+2010,Low-income,Somalia,1428.0,6.0,48.0
+2010,Low-income,Togo,382.0,8.0,1.166667
+2010,Low-income,Uganda,1222.0,2.0,33.0
+2010,Low-income,United Republic of Tanzania,2348.0,-6.0,35.0
+2010,Low-income,Zimbabwe,2441.0,-19.0,29.0
+2010,Lower-middle-income,Armenia,353.0,40.0,45.0
+2010,Lower-middle-income,Bangladesh,1125.0,24.0,90.0
+2010,Lower-middle-income,Bhutan,1180.0,27.5,90.5
+2010,Lower-middle-income,Bolivia (Plurinational State of),719.0,-17.0,-65.0
+2010,Lower-middle-income,Cabo Verde,747.0,16.0,-24.0
+2010,Lower-middle-income,Cambodia,2327.0,13.0,105.0
+2010,Lower-middle-income,Cameroon,1408.0,6.0,12.0
+2010,Lower-middle-income,Congo,2017.0,-1.0,15.0
+2010,Lower-middle-income,Côte d'Ivoire,1104.0,8.0,-5.0
+2010,Lower-middle-income,Djibouti,3100.0,11.5,42.5
+2010,Lower-middle-income,Egypt,97.0,27.0,30.0
+2010,Lower-middle-income,El Salvador,161.0,13.833333,-88.916667
+2010,Lower-middle-income,Ghana,956.0,8.0,-2.0
+2010,Lower-middle-income,Guatemala,315.0,15.5,-90.25
+2010,Lower-middle-income,Honduras,270.0,15.0,-86.5
+2010,Lower-middle-income,India,978.0,20.0,77.0
+2010,Lower-middle-income,Indonesia,2120.0,-5.0,120.0
+2010,Lower-middle-income,Kenya,1642.0,1.0,38.0
+2010,Lower-middle-income,Kiribati,2130.0,-5.0,-170.0
+2010,Lower-middle-income,Kyrgyzstan,837.0,41.0,75.0
+2010,Lower-middle-income,Lao People's Democratic Republic,1200.0,18.0,105.0
+2010,Lower-middle-income,Lesotho,6058.0,-29.5,28.25
+2010,Lower-middle-income,Mauritania,759.0,20.0,-12.0
+2010,Lower-middle-income,Micronesia (Federated States of),1095.0,5.0,152.0
+2010,Lower-middle-income,Mongolia,1109.0,46.0,105.0
+2010,Lower-middle-income,Morocco,496.0,32.0,-5.0
+2010,Lower-middle-income,Myanmar,1960.0,22.0,98.0
+2010,Lower-middle-income,Nicaragua,230.0,13.0,-85.0
+2010,Lower-middle-income,Nigeria,1705.0,10.0,8.0
+2010,Lower-middle-income,Pakistan,1380.0,30.0,70.0
+2010,Lower-middle-income,Papua New Guinea,2094.0,-6.0,147.0
+2010,Lower-middle-income,Philippines,1597.0,13.0,122.0
+2010,Lower-middle-income,Republic of Moldova,857.0,47.0,29.0
+2010,Lower-middle-income,Samoa,85.0,-13.803096,-172.178309
+2010,Lower-middle-income,Sao Tome and Principe,497.0,1.0,7.0
+2010,Lower-middle-income,Solomon Islands,607.0,-8.0,159.0
+2010,Lower-middle-income,Sri Lanka,330.0,7.0,81.0
+2010,Lower-middle-income,Sudan,555.0,16.0,30.0
+2010,Lower-middle-income,Swaziland,6587.0,-26.5,31.5
+2010,Lower-middle-income,Syrian Arab Republic,112.0,35.0,38.0
+2010,Lower-middle-income,Tajikistan,776.0,39.0,71.0
+2010,Lower-middle-income,Timor-Leste,2490.0,-8.833333,125.75
+2010,Lower-middle-income,Tonga,98.0,-20.0,-175.0
+2010,Lower-middle-income,Tunisia,130.0,34.0,9.0
+2010,Lower-middle-income,Ukraine,592.0,49.0,32.0
+2010,Lower-middle-income,Uzbekistan,529.0,41.707542,63.84911
+2010,Lower-middle-income,Vanuatu,372.0,-16.0,167.0
+2010,Lower-middle-income,Viet Nam,818.0,16.166667,107.833333
+2010,Lower-middle-income,Yemen,306.0,15.5,47.5
+2010,Lower-middle-income,Zambia,2674.0,-15.0,30.0
+2010,Upper-middle-income,Albania,86.0,41.0,20.0
+2010,Upper-middle-income,Algeria,446.0,28.0,3.0
+2010,Upper-middle-income,Angola,1907.0,-12.5,18.5
+2010,Upper-middle-income,Argentina,132.0,-34.0,-64.0
+2010,Upper-middle-income,Azerbaijan,977.0,40.5,47.5
+2010,Upper-middle-income,Belarus,357.0,53.0,28.0
+2010,Upper-middle-income,Belize,176.0,17.25,-88.75
+2010,Upper-middle-income,Bosnia and Herzegovina,329.0,44.25,17.833333
+2010,Upper-middle-income,Botswana,2998.0,-22.0,24.0
+2010,Upper-middle-income,Brazil,240.0,-10.0,-55.0
+2010,Upper-middle-income,Bulgaria,223.0,43.0,25.0
+2010,Upper-middle-income,China,416.0,35.0,105.0
+2010,Upper-middle-income,Colombia,180.0,4.0,-72.0
+2010,Upper-middle-income,Costa Rica,70.0,10.0,-84.0
+2010,Upper-middle-income,Cuba,45.5,22.0,-79.5
+2010,Upper-middle-income,Dominica,94.0,15.5,-61.333333
+2010,Upper-middle-income,Dominican Republic,365.0,19.0,-70.666667
+2010,Upper-middle-income,Ecuador,310.0,-2.0,-77.5
+2010,Upper-middle-income,Equatorial Guinea,591.0,2.0,10.0
+2010,Upper-middle-income,Fiji,221.0,-18.0,178.0
+2010,Upper-middle-income,Gabon,2627.0,-1.0,11.75
+2010,Upper-middle-income,Georgia,710.0,41.999981,43.499905
+2010,Upper-middle-income,Grenada,19.9,12.116667,-61.666667
+2010,Upper-middle-income,Guyana,564.0,5.0,-59.0
+2010,Upper-middle-income,Iran (Islamic Republic of),99.0,32.0,53.0
+2010,Upper-middle-income,Iraq,232.0,33.0,44.0
+2010,Upper-middle-income,Jamaica,28.6,18.25,-77.5
+2010,Upper-middle-income,Jordan,33.6,31.0,36.0
+2010,Upper-middle-income,Kazakhstan,812.0,48.0,68.0
+2010,Upper-middle-income,Lebanon,62.0,33.833333,35.833333
+2010,Upper-middle-income,Libya,200.0,25.0,17.0
+2010,Upper-middle-income,Malaysia,395.0,2.5,112.5
+2010,Upper-middle-income,Maldives,215.0,3.2,73.0
+2010,Upper-middle-income,Marshall Islands,1809.0,10.0,167.0
+2010,Upper-middle-income,Mauritius,111.0,-20.3,57.583333
+2010,Upper-middle-income,Mauritius,111.0,16.0,146.0
+2010,Upper-middle-income,Mexico,101.0,23.0,-102.0
+2010,Upper-middle-income,Namibia,5278.0,-22.0,17.0
+2010,Upper-middle-income,Palau,428.0,6.0,134.0
+2010,Upper-middle-income,Panama,291.0,9.0,-80.0
+2010,Upper-middle-income,Paraguay,238.0,-22.993333,-57.996389
+2010,Upper-middle-income,Peru,696.0,-10.0,-76.0
+2010,Upper-middle-income,Romania,619.0,46.0,25.0
+2010,Upper-middle-income,Russian Federation,594.0,60.0,100.0
+2010,Upper-middle-income,Saint Lucia,49.4,13.883333,-60.966667
+2010,Upper-middle-income,Saint Vincent and the Grenadines,123.0,13.083333,-61.2
+2010,Upper-middle-income,Serbia,172.0,44.0,21.0
+2010,Upper-middle-income,South Africa,4832.0,-30.0,26.0
+2010,Upper-middle-income,Suriname,262.0,4.0,-56.0
+2010,Upper-middle-income,Thailand,985.0,15.0,100.0
+2010,Upper-middle-income,The former Yugoslav republic of Macedonia,131.0,41.833333,22.0
+2010,Upper-middle-income,Turkey,142.0,39.059012,34.911546
+2010,Upper-middle-income,Turkmenistan,656.0,40.0,60.0
+2010,Upper-middle-income,Tuvalu,1133.0,-8.0,178.0
+2010,Upper-middle-income,Venezuela (Bolivarian Republic of),134.0,8.0,-66.0
+2015,High-income,Andorra,35.4,42.5,1.5
+2015,High-income,Antigua and Barbuda,27.5,17.05,-61.8
+2015,High-income,Australia,25.8,-14.3333333,-170.0
+2015,High-income,Australia,25.8,-25.0,135.0
+2015,High-income,Austria,33.3,47.333333,13.333333
+2015,High-income,Bahamas,49.0,24.0,-76.0
+2015,High-income,Bahrain,77.0,26.0,50.5
+2015,High-income,Barbados,5.81,13.166667,-59.533333
+2015,High-income,Belgium,37.0,50.833333,4.0
+2015,High-income,Brunei Darussalam,248.0,4.5,114.666667
+2015,High-income,Canada,20.6,60.0,-96.0
+2015,High-income,Chile,64.0,-30.0,-71.0
+2015,High-income,Cook Islands,34.2,-16.083333,-161.583333
+2015,High-income,Croatia,59.0,45.166667,15.5
+2015,High-income,Cyprus,21.2,35.0,33.0
+2015,High-income,Czech Republic,21.7,49.75,15.0
+2015,High-income,Denmark,27.4,56.0,10.0
+2015,High-income,Estonia,91.0,59.0,26.0
+2015,High-income,Finland,23.5,64.0,26.0
+2015,High-income,France,35.7,46.0,2.0
+2015,High-income,Germany,23.7,51.5,10.5
+2015,High-income,Greece,20.2,39.0,22.0
+2015,High-income,Hungary,51.0,47.0,20.0
+2015,High-income,Iceland,14.6,65.0,-18.0
+2015,High-income,Ireland,34.0,53.0,-8.0
+2015,High-income,Israel,22.5,31.5,34.75
+2015,High-income,Italy,25.7,42.833333,12.833333
+2015,High-income,Japan,75.0,36.0,138.0
+2015,High-income,Kuwait,101.0,29.5,47.75
+2015,High-income,Latvia,199.0,57.0,25.0
+2015,High-income,Lithuania,265.0,56.0,24.0
+2015,High-income,Luxembourg,27.1,49.75,6.166667
+2015,High-income,Malta,47.0,35.916667,14.433333
+2015,High-income,Monaco,9.1,43.733333,7.4
+2015,High-income,Nauru,255.0,-0.533333,166.916667
+2015,High-income,Netherlands,24.4,52.5,5.75
+2015,High-income,New Zealand,29.9,-42.0,174.0
+2015,High-income,Norway,31.3,62.0,10.0
+2015,High-income,Oman,43.6,21.0,57.0
+2015,High-income,Poland,84.0,52.0,20.0
+2015,High-income,Portugal,103.0,39.5,-8.0
+2015,High-income,Qatar,131.0,25.5,51.25
+2015,High-income,Republic of Korea,373.0,37.0,127.5
+2015,High-income,Saint Kitts and Nevis,26.6,17.333333,-62.75
+2015,High-income,San Marino,6.0,43.933333,12.416667
+2015,High-income,Saudi Arabia,56.0,25.0,45.0
+2015,High-income,Seychelles,89.0,-4.583333,55.666667
+2015,High-income,Singapore,175.0,1.366667,103.8
+2015,High-income,Slovakia,30.3,48.666667,19.5
+2015,High-income,Slovenia,33.1,46.25,15.166667
+2015,High-income,Spain,55.0,40.0,-4.0
+2015,High-income,Sweden,29.1,62.0,15.0
+2015,High-income,Switzerland,25.9,47.0,8.0
+2015,High-income,Trinidad and Tobago,88.0,11.0,-61.0
+2015,High-income,United Arab Emirates,7.4,24.0,54.0
+2015,High-income,United Kingdom of Great Britain and Northern Ireland,53.0,54.0,-4.0
+2015,High-income,United States of America,14.1,39.828175,-98.5795
+2015,High-income,Uruguay,112.0,-33.0,-56.0
+2015,Low-income,Afghanistan,756.0,33.0,66.0
+2015,Low-income,Benin,258.0,9.5,2.25
+2015,Low-income,Burkina Faso,220.0,13.0,-2.0
+2015,Low-income,Burundi,525.0,-3.5,30.0
+2015,Low-income,Central African Republic,1514.0,7.0,21.0
+2015,Low-income,Chad,612.0,15.0,19.0
+2015,Low-income,Comoros,137.0,-12.166667,44.25
+2015,Low-income,Democratic People's Republic of Korea,1693.0,40.0,127.0
+2015,Low-income,Democratic Republic of the Congo,1305.0,0.0,25.0
+2015,Low-income,Eritrea,386.0,15.0,39.0
+2015,Low-income,Ethiopia,923.0,8.0,38.0
+2015,Low-income,Gambia,698.0,13.5,-15.5
+2015,Low-income,Guinea,717.0,11.0,-10.0
+2015,Low-income,Guinea-Bissau,1514.0,12.0,-15.0
+2015,Low-income,Haiti,839.0,19.0,-72.416667
+2015,Low-income,Liberia,1219.0,6.5,-9.5
+2015,Low-income,Madagascar,942.0,-20.0,47.0
+2015,Low-income,Malawi,1094.0,-13.5,34.0
+2015,Low-income,Mali,241.0,17.0,-4.0
+2015,Low-income,Mozambique,2201.0,-18.25,35.0
+2015,Low-income,Nepal,640.0,28.0,84.0
+2015,Low-income,Niger,414.0,16.0,8.0
+2015,Low-income,Niue,81.0,-19.033333,-169.866667
+2015,Low-income,Rwanda,290.0,-2.0,30.0
+2015,Low-income,Senegal,546.0,14.0,-14.0
+2015,Low-income,Sierra Leone,1253.0,8.5,-11.5
+2015,Low-income,Somalia,1131.0,6.0,48.0
+2015,Low-income,Togo,264.0,8.0,1.166667
+2015,Low-income,Uganda,699.0,2.0,33.0
+2015,Low-income,United Republic of Tanzania,1442.0,-6.0,35.0
+2015,Low-income,Zimbabwe,1321.0,-19.0,29.0
+2015,Lower-middle-income,Armenia,205.0,40.0,45.0
+2015,Lower-middle-income,Bangladesh,901.0,24.0,90.0
+2015,Lower-middle-income,Bhutan,705.0,27.5,90.5
+2015,Lower-middle-income,Bolivia (Plurinational State of),501.0,-17.0,-65.0
+2015,Lower-middle-income,Cabo Verde,570.0,16.0,-24.0
+2015,Lower-middle-income,Cambodia,1624.0,13.0,105.0
+2015,Lower-middle-income,Cameroon,948.0,6.0,12.0
+2015,Lower-middle-income,Congo,1528.0,-1.0,15.0
+2015,Lower-middle-income,Côte d'Ivoire,699.0,8.0,-5.0
+2015,Lower-middle-income,Djibouti,2478.0,11.5,42.5
+2015,Lower-middle-income,Egypt,65.0,27.0,30.0
+2015,Lower-middle-income,El Salvador,151.0,13.833333,-88.916667
+2015,Lower-middle-income,Ghana,684.0,8.0,-2.0
+2015,Lower-middle-income,Guatemala,238.0,15.5,-90.25
+2015,Lower-middle-income,Honduras,189.0,15.0,-86.5
+2015,Lower-middle-income,India,694.0,20.0,77.0
+2015,Lower-middle-income,Indonesia,1619.0,-5.0,120.0
+2015,Lower-middle-income,Kenya,1061.0,1.0,38.0
+2015,Lower-middle-income,Kiribati,1855.0,-5.0,-170.0
+2015,Lower-middle-income,Kyrgyzstan,564.0,41.0,75.0
+2015,Lower-middle-income,Lao People's Democratic Republic,803.0,18.0,105.0
+2015,Lower-middle-income,Lesotho,3807.0,-29.5,28.25
+2015,Lower-middle-income,Mauritania,475.0,20.0,-12.0
+2015,Lower-middle-income,Micronesia (Federated States of),777.0,5.0,152.0
+2015,Lower-middle-income,Mongolia,749.0,46.0,105.0
+2015,Lower-middle-income,Morocco,414.0,32.0,-5.0
+2015,Lower-middle-income,Myanmar,1498.0,22.0,98.0
+2015,Lower-middle-income,Nicaragua,219.0,13.0,-85.0
+2015,Lower-middle-income,Nigeria,1338.0,10.0,8.0
+2015,Lower-middle-income,Pakistan,1097.0,30.0,70.0
+2015,Lower-middle-income,Papua New Guinea,1665.0,-6.0,147.0
+2015,Lower-middle-income,Philippines,1180.0,13.0,122.0
+2015,Lower-middle-income,Republic of Moldova,634.0,47.0,29.0
+2015,Lower-middle-income,Samoa,72.0,-13.803096,-172.178309
+2015,Lower-middle-income,Sao Tome and Principe,375.0,1.0,7.0
+2015,Lower-middle-income,Solomon Islands,378.0,-8.0,159.0
+2015,Lower-middle-income,Sri Lanka,263.0,7.0,81.0
+2015,Lower-middle-income,Sudan,402.0,16.0,30.0
+2015,Lower-middle-income,Swaziland,3832.0,-26.5,31.5
+2015,Lower-middle-income,Syrian Arab Republic,71.0,35.0,38.0
+2015,Lower-middle-income,Tajikistan,416.0,39.0,71.0
+2015,Lower-middle-income,Timor-Leste,1992.0,-8.833333,125.75
+2015,Lower-middle-income,Tonga,59.0,-20.0,-175.0
+2015,Lower-middle-income,Tunisia,125.0,34.0,9.0
+2015,Lower-middle-income,Ukraine,396.0,49.0,32.0
+2015,Lower-middle-income,Uzbekistan,350.0,41.707542,63.84911
+2015,Lower-middle-income,Vanuatu,257.0,-16.0,167.0
+2015,Lower-middle-income,Viet Nam,582.0,16.166667,107.833333
+2015,Lower-middle-income,Yemen,194.0,15.5,47.5
+2015,Lower-middle-income,Zambia,1774.0,-15.0,30.0
+2015,Upper-middle-income,Albania,70.0,41.0,20.0
+2015,Upper-middle-income,Algeria,327.0,28.0,3.0
+2015,Upper-middle-income,Angola,1509.0,-12.5,18.5
+2015,Upper-middle-income,Argentina,96.0,-34.0,-64.0
+2015,Upper-middle-income,Azerbaijan,366.0,40.5,47.5
+2015,Upper-middle-income,Belarus,250.0,53.0,28.0
+2015,Upper-middle-income,Belize,147.0,17.25,-88.75
+2015,Upper-middle-income,Bosnia and Herzegovina,195.0,44.25,17.833333
+2015,Upper-middle-income,Botswana,1724.0,-22.0,24.0
+2015,Upper-middle-income,Brazil,181.0,-10.0,-55.0
+2015,Upper-middle-income,Bulgaria,122.0,43.0,25.0
+2015,Upper-middle-income,China,286.0,35.0,105.0
+2015,Upper-middle-income,Colombia,132.0,4.0,-72.0
+2015,Upper-middle-income,Costa Rica,46.0,10.0,-84.0
+2015,Upper-middle-income,Cuba,37.3,22.0,-79.5
+2015,Upper-middle-income,Dominica,26.51,15.5,-61.333333
+2015,Upper-middle-income,Dominican Republic,247.0,19.0,-70.666667
+2015,Upper-middle-income,Ecuador,228.0,-2.0,-77.5
+2015,Upper-middle-income,Equatorial Guinea,595.0,2.0,10.0
+2015,Upper-middle-income,Fiji,227.0,-18.0,178.0
+2015,Upper-middle-income,Gabon,1756.0,-1.0,11.75
+2015,Upper-middle-income,Georgia,463.0,41.999981,43.499905
+2015,Upper-middle-income,Grenada,8.3,12.116667,-61.666667
+2015,Upper-middle-income,Guyana,431.0,5.0,-59.0
+2015,Upper-middle-income,Iran (Islamic Republic of),84.0,32.0,53.0
+2015,Upper-middle-income,Iraq,178.0,33.0,44.0
+2015,Upper-middle-income,Jamaica,20.3,18.25,-77.5
+2015,Upper-middle-income,Jordan,23.1,31.0,36.0
+2015,Upper-middle-income,Kazakhstan,475.0,48.0,68.0
+2015,Upper-middle-income,Lebanon,63.0,33.833333,35.833333
+2015,Upper-middle-income,Libya,160.0,25.0,17.0
+2015,Upper-middle-income,Malaysia,379.0,2.5,112.5
+2015,Upper-middle-income,Maldives,158.0,3.2,73.0
+2015,Upper-middle-income,Marshall Islands,1365.0,10.0,167.0
+2015,Upper-middle-income,Mauritius,85.0,-20.3,57.583333
+2015,Upper-middle-income,Mauritius,85.0,16.0,146.0
+2015,Upper-middle-income,Mexico,84.0,23.0,-102.0
+2015,Upper-middle-income,Namibia,2834.0,-22.0,17.0
+2015,Upper-middle-income,Palau,218.0,6.0,134.0
+2015,Upper-middle-income,Panama,199.0,9.0,-80.0
+2015,Upper-middle-income,Paraguay,178.0,-22.993333,-57.996389
+2015,Upper-middle-income,Peru,498.0,-10.0,-76.0
+2015,Upper-middle-income,Romania,363.0,46.0,25.0
+2015,Upper-middle-income,Russian Federation,365.0,60.0,100.0
+2015,Upper-middle-income,Saint Lucia,33.5,13.883333,-60.966667
+2015,Upper-middle-income,Saint Vincent and the Grenadines,96.0,13.083333,-61.2
+2015,Upper-middle-income,Serbia,103.0,44.0,21.0
+2015,Upper-middle-income,South Africa,3508.0,-30.0,26.0
+2015,Upper-middle-income,Suriname,163.0,4.0,-56.0
+2015,Upper-middle-income,Thailand,689.0,15.0,100.0
+2015,Upper-middle-income,The former Yugoslav republic of Macedonia,69.0,41.833333,22.0
+2015,Upper-middle-income,Turkey,84.0,39.059012,34.911546
+2015,Upper-middle-income,Turkmenistan,309.0,40.0,60.0
+2015,Upper-middle-income,Tuvalu,811.0,-8.0,178.0
+2015,Upper-middle-income,Venezuela (Bolivarian Republic of),98.0,8.0,-66.0

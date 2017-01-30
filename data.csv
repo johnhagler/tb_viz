@@ -1,0 +1,13 @@
+Year,Income Group,Immunization,Treatment,lat,lon
+1980,High-income,.26065254,.86047864
+1980,Upper-middle-income,.88342418,.43433457
+1980,Lower-middle-income,.76204030,.44210810
+1980,Low-income,.65529294,.29685190
+1990,High-income,.26065254,.86047864
+1990,Upper-middle-income,.88342418,.43433457
+1990,Lower-middle-income,.76204030,.44210810
+1990,Low-income,.65529294,.29685190
+2000,High-income,.24763475,.86241593,42,-120
+2000,Upper-middle-income,.91794882,.67516191,40,-74
+2000,Lower-middle-income,.83441769,.46542889,23,8
+2000,Low-income,.77513672,.47258602,-22,142

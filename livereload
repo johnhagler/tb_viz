@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+from livereload import Server, shell
+server = Server()
+server.watch('map.coffee', shell('coffee -cm map.coffee'))
+server.watch('slope.coffee', shell('coffee -cm slope.coffee'))
+server.watch('animation.coffee', shell('coffee -cm animation.coffee'))
+server.watch('style.scss', shell('sass style.scss style.css'))
+server.watch('*.html')
+server.serve(root='.')

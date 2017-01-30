@@ -1,0 +1,62 @@
+.axis  {
+  path, line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+  }
+  text {
+    font-size: 11px;
+  }
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn:hover {
+  cursor: pointer;
+}
+.legend { 
+  text {
+    font-size:12px;
+    fill: #666;
+  }
+}
+
+text.start, text.end {
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible !important;
+}
+
+.map {
+  fill: #f7f7f7;
+  stroke: #bdbdbd; 
+}
+
+#a-years {
+  padding-top:10px;
+}
+h1 {
+  font-size: 30px;
+  margin-top:10px;
+  margin-left:10px;
+}
+nav {
+  position: fixed; 
+  display:block; 
+  z-index: 999; 
+  width:100%;
+  height:80px;
+}
+.map-hover {
+  text {
+    font-size:12px;
+  }
+}
+#map circle:hover {
+  pointer: crosshair;
+}
+
